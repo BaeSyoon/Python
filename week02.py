@@ -5,3 +5,5 @@ elif menu == "2":
     print("2")
 elif menu == "3":
     print("3")
+elif menu == "4":
+    print("4")
