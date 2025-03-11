@@ -7,3 +7,5 @@ elif menu == "3":
     print("3")
 elif menu == "4":
     print("4")
+elif menu == "5":
+    print("5")
